@@ -1,5 +1,5 @@
 # 1-Results-Driven
-Simple website for Digital Marketing agency.
+Website for Digital Marketing agency.
 ## Built with
 
   * :art: CSS3
